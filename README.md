@@ -22,12 +22,17 @@
 7.	SQL
 
 
-### 🔥 Core Programming Concepts
+### 🔥 Core Programming & Computer Science Fundamentals
 
 1. Data Structures and Algorithms
 2. Object Oriented Programming
 3. Functional Programming
 4. Concurrency, MultiThreading and Parallelism
 5. Memory Management
+6. Databases & DBMS
+7. Computer Architecture
+8. Computer Networks
+9. Operating Systems
+    
 
 
