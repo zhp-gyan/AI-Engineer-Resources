@@ -33,6 +33,20 @@
 7. Computer Architecture
 8. Computer Networks
 9. Operating Systems
+
+   
     
+### 🔥 Data Analysis 
+
+1. **Data Preprocessing**
+  - Data Cleaning: Handling missing values, outliers, and duplicates
+  - Data Transformation: Scaling, normalization, and encoding categorical variables
+  - Data Integration: Merging datasets, concatenation, and joining data
+  - Feature Engineering: Creating new features, feature selection, and extraction
+2. EDA
+  - Descriptive Statistics: Mean, median, mode, variance, standard deviation
+  - Data Distribution: Histograms, box plots, and kernel density estimates
+  - Data Relationships: Correlation, covariance, scatter plots, pair plots
+  - Grouping and Aggregation: GroupBy operations, pivot tables
 
 
